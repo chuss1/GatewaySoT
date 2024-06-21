@@ -5,7 +5,7 @@ metadata:
 spec:
   name: l7-gw-myapis
   enabled: true
-  endpoint: https://github.com/chuss1/GatewaySoT
+  endpoint: https://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@github.com/chuss1/GatewaySoT
   branch: main
   auth:
     type: basic
