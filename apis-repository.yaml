@@ -2,6 +2,7 @@ apiVersion: security.brcmlabs.com/v1
 kind: Repository
 metadata:
   name: l7-gw-myapis
+  namespace: default
 spec:
   enabled: true
   type: git
